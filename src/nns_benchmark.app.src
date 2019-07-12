@@ -1,0 +1,11 @@
+{application, nns_benchmark,
+ [
+  {description, "Benchmark of Nearest Neighbor Search"},
+  {vsn, "git"},
+  {registered, []},
+  {applications, []},
+  {env, []},
+  {licenses, ["Apache"]},
+  {links,[{"GitHub","https://github.com/seniverse/nns_benchmark"}]}
+ ]
+}.

@@ -1,0 +1,9 @@
+*~
+*.beam
+*.crashdump
+_build/
+doc/*
+!doc/overview.edoc
+src/fieldmask_lexer.erl
+src/fieldmask_parser.erl
+rebar.lock
